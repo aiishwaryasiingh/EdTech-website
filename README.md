@@ -1,0 +1,1 @@
+This is a Responsive front end web project for an EdTech company. The technologies used here are HTML and CSS. Different aspects of CSS have been used in the project like cards, carousel, collapsible navigation, media queries, forms etc.
